@@ -1,0 +1,1 @@
+Flask 'Findus' user manager
